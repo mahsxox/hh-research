@@ -1,0 +1,9 @@
+google.colab
+pandas
+numpy
+matplotlib
+re
+collections
+plotly.express
+plotly.graph_objects
+seaborn
